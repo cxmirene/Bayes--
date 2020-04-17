@@ -1,0 +1,6 @@
+pandas
+numpy
+nltk
+sklearn
+pyecharts
+snapshot_selenium
